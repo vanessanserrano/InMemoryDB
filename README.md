@@ -25,8 +25,10 @@ Methods:
    ```bash
    cd InMemoryDB
 2. Compile
+   ```bash
     javac src/*.java
-3. Run
+4. Run
+   ```bash
     java -cp src Main
 
 Creates an instance of the in-memory DB
