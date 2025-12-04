@@ -31,6 +31,17 @@ Methods:
    ```bash
     java -cp src Main
 
-Creates an instance of the in-memory DB
+Creates an instance of the in-memory DB.
+
+
+---
+
+## Make it Official
+
+To make this into an "official" assignment in the future:
+
+   Instructions would be clear and state what is wanted for results. Like outputs for errors andd exceptions for when methods are used not on transactions. Starter template with psuedocode could be provided or examples of inputs and outputs wanted. Unit tests could be used against the project for grading or created as part of the assignment. 
+   
+
 
 
